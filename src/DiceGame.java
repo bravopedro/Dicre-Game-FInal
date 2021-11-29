@@ -15,7 +15,7 @@ public class DiceGame {
         double playerOneTotal = 0;
         double playerTwoTotal = 0;
 
-
+// this is a test commit
         System.out.println("Reminder both players must have the same bet size with a minimum of 10 dollars");
         System.out.print("How much would you like to bet? ");
         bet = scnr1.nextInt();  // take user input of the bet size
